@@ -1,1 +1,1 @@
-# SQLD
+# SQLD Certification Study Space
